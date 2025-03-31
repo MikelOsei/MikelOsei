@@ -2,7 +2,6 @@
 - 👀 I’m interested in:
   -  Software Development
     -  Game Development
-  -  Gamifying Business Strategy
   -  Creating interactive learning experiences with code
   -  Graphic Design, Computer Graphics & 3D Modelling
 - 🌱 I’m currently learning:
@@ -10,7 +9,7 @@
 - 💞️ I’m looking to collaborate on:
   - Any interesting projects!
     - Projects that incorporate AI
-    - Games!!!
+    - Games
 - 🧠 I'm familiar with the languages:
   - C++, C#, C, Java, Racket🎾, R
 
