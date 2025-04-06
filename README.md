@@ -3,15 +3,13 @@
   -  Software Development
     -  Game Development
   -  Creating interactive learning experiences with code
-  -  Graphic Design, Computer Graphics & 3D Modelling
+  -  Graphic Design, Computer Graphics
 - 🌱 I’m currently learning:
-  - JavaScript, Unity with C#, Frontend Development with a variety of libraries
-- 💞️ I’m looking to collaborate on:
-  - Any interesting projects!
-    - Projects that incorporate AI
-    - Games
+  - Basics of graphics programming
+- 💞️ I’m looking to collaborate on any interesting projects!
 - 🧠 I'm familiar with the languages:
-  - C++, C#, C, Java, Racket🎾, R
+  - C++, C#, C, Java, Racket🎾, R, Javascript
+  - But always looking to learn more languages and frameworks to add to my portfolio
 
 <!---
 MikelOsei/MikelOsei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
