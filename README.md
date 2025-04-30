@@ -4,8 +4,9 @@
     -  Game Development
   -  Creating interactive learning experiences with code
   -  Graphic Design, Computer Graphics
-- 🌱 I’m currently learning:
-  - Basics of graphics programming
+- 🌱 I’m currently working on projects to learn:
+  - Graphics programming (C++, SFML)
+  - TypeScript, Pixi.js (React, Next.js)
 - 💞️ I’m looking to collaborate on any interesting projects!
 - 🧠 I'm familiar with the languages:
   - C++, C#, C, Java, Racket🎾, R, Javascript
