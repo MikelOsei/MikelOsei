@@ -9,7 +9,7 @@
   - TypeScript, Pixi.js (React, Next.js)
 - 💞️ I’m looking to collaborate on any interesting projects!
 - 🧠 I'm familiar with the languages:
-  - C++, C#, C, Java, Racket🎾, R, Javascript
+  - C++, C#, C, Java, Racket🎾, R, Javascript, Typescript, WEBGL
   - But always looking to learn more languages and frameworks to add to my portfolio
 
 <!---
