@@ -3,7 +3,8 @@
   -  Software Development
     -  Game Development
   -  Creating interactive learning experiences with code
-  -  Graphic Design, Computer Graphics
+  -  Graphic Design
+  -  Computer Graphics
 - 🌱 I’m currently working on projects to learn:
   - Graphics programming (C++, SFML)
   - TypeScript, Pixi.js (React, Next.js)
